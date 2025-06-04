@@ -1,0 +1,12 @@
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\bin\Debug\SistemadeCafe.exe.config
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\bin\Debug\SistemadeCafe.exe
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\bin\Debug\SistemadeCafe.pdb
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeJogo.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeCafe.Form1.resources
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeCafe.Form2.resources
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeCafe.Form3.resources
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeCafe.Properties.Resources.resources
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeJogo.csproj.GenerateResource.cache
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeJogo.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeCafe.exe
+C:\Users\Tecnico\source\repos\SistemadeCafe\SistemadeCafe\obj\Debug\SistemadeCafe.pdb
