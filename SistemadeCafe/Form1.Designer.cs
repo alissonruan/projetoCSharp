@@ -40,7 +40,7 @@
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.label4.Location = new System.Drawing.Point(279, 36);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(155, 36);
+            this.label4.Size = new System.Drawing.Size(102, 25);
             this.label4.TabIndex = 0;
             this.label4.Text = "Ping Pong";
             this.label4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
@@ -65,6 +65,7 @@
             this.btnPartida.TabIndex = 4;
             this.btnPartida.Text = "Partida";
             this.btnPartida.UseVisualStyleBackColor = true;
+            this.btnPartida.Click += new System.EventHandler(this.btnPartida_Click);
             // 
             // btnRanking
             // 

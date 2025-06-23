@@ -8,10 +8,12 @@ namespace SistemadeCafe
 {
     class Pessoa
     {
-        public int id {  get; set; }
+        public int Id { get; set; }
         public string Nome { get; set; }
-        public int idade { get; set; }
-        public string nivel { get; set; }
+        public int Idade { get; set; }
+        public string Nivel { get; set; }
+
+
         
     }
 }
