@@ -14,6 +14,12 @@ namespace SistemadeCafe
         public string Nivel { get; set; }
 
 
-        
+        public void CadastrarPessoa()
+        {
+            Id = Id;
+            Nome = Nome;
+            Idade = Idade;
+            Nivel = Nivel;
+        }
     }
 }

@@ -18,8 +18,8 @@ namespace SistemadeCafe
                 string sql = "INSERT INTO jogadores (nome, idade, nivel) VALUES (@nome, @idade, @nivel)";
                 SqlCommand cmd = new SqlCommand(sql, conn);
                 cmd.Parameters.AddWithValue("@nome", pessoa.Nome);
-                cmd.Parameters.AddWithValue("@idade", pessoa.idade);
-                cmd.Parameters.AddWithValue("@nivel", pessoa.nivel);
+                cmd.Parameters.AddWithValue("@idade", pessoa.Idade);
+                cmd.Parameters.AddWithValue("@nivel", pessoa.Nivel);
 
                 conn.Open();
                 cmd.ExecuteNonQuery();
@@ -43,8 +43,8 @@ namespace SistemadeCafe
                     pessoa.Add(new Pessoa
                     {
                         Nome = reader["Nome"].ToString(),
-                        idade = (int)reader["idade"],
-                        nivel = reader["nivel"].ToString()
+                        Idade = (int)reader["idade"],
+                        Nivel = reader["nivel"].ToString()
                     });
                 }
             }
@@ -56,10 +56,10 @@ namespace SistemadeCafe
             {
                 string sql = "UPDATE jogadores SET nome = @nome, idade = @idade, nivel = @nivel WHERE id = @id";
                 SqlCommand cmd  = new SqlCommand(sql, conn);
-                cmd.Parameters.AddWithValue("@id", pessoa.id);
+                cmd.Parameters.AddWithValue("@id", pessoa.Id);
                 cmd.Parameters.AddWithValue("@nome", pessoa.Nome);
-                cmd.Parameters.AddWithValue("@idade", pessoa.idade);
-                cmd.Parameters.AddWithValue("@nivel", pessoa.nivel);
+                cmd.Parameters.AddWithValue("@idade", pessoa.Idade);
+                cmd.Parameters.AddWithValue("@nivel", pessoa.Nivel);
 
                 conn.Open();
                 cmd.ExecuteNonQuery();
