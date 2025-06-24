@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\",
+  "WorkspaceRootPath": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\zanse\\source\\repos\\projetoCSharp\\sistemadecafe\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|c:\\users\\zanse\\source\\repos\\projetocsharp\\sistemadecafe\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\zanse\\source\\repos\\projetoCSharp\\sistemadecafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\zanse\\source\\repos\\projetoCSharp\\sistemadecafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\zanse\\source\\repos\\projetoCSharp\\sistemadecafe\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\sistemadecafe\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\zanse\\source\\repos\\projetoCSharp\\sistemadecafe\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\sistemadecafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\zanse\\source\\repos\\projetoCSharp\\sistemadecafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\sistemadecafe\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\sistemadecafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\sistemadecafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\sistemadecafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\zanse\\source\\repos\\projetoCSharp\\sistemadecafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|c:\\users\\tecnico\\source\\repos\\projetocsharp\\sistemadecafe\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\sistemadecafe\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01CEB0D1-C6DB-4BA7-88DA-237737B8D687}|SistemadeCafe\\SistemadeJogo.csproj|solutionrelative:sistemadecafe\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,54 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form3.cs",
-              "RelativeDocumentMoniker": "SistemadeCafe\\Form3.cs",
-              "ToolTip": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form3.cs",
-              "RelativeToolTip": "SistemadeCafe\\Form3.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:14:09.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form2.cs",
-              "RelativeDocumentMoniker": "SistemadeCafe\\Form2.cs",
-              "ToolTip": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form2.cs",
-              "RelativeToolTip": "SistemadeCafe\\Form2.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:13:12.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form1.cs",
               "RelativeDocumentMoniker": "SistemadeCafe\\Form1.cs",
-              "ToolTip": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form1.cs",
               "RelativeToolTip": "SistemadeCafe\\Form1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAEwCMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T01:13:04.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form3.cs",
               "RelativeDocumentMoniker": "SistemadeCafe\\Form3.cs",
-              "ToolTip": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form3.cs [Design]",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form3.cs [Design]",
               "RelativeToolTip": "SistemadeCafe\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T01:11:18.356Z",
@@ -97,11 +71,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form2.cs",
               "RelativeDocumentMoniker": "SistemadeCafe\\Form2.cs",
-              "ToolTip": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form2.cs [Design]",
               "RelativeToolTip": "SistemadeCafe\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T01:09:36.958Z",
@@ -109,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form1.cs",
               "RelativeDocumentMoniker": "SistemadeCafe\\Form1.cs",
-              "ToolTip": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form1.cs [Design]",
               "RelativeToolTip": "SistemadeCafe\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T01:08:39.382Z",
@@ -121,29 +95,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Pessoa.cs",
               "RelativeDocumentMoniker": "SistemadeCafe\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Pessoa.cs",
               "RelativeToolTip": "SistemadeCafe\\Pessoa.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T18:52:25.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Dao.cs",
-              "DocumentMoniker": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Dao.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Dao.cs",
               "RelativeDocumentMoniker": "SistemadeCafe\\Dao.cs",
-              "ToolTip": "C:\\Users\\zanse\\source\\repos\\projetoCSharp\\SistemadeCafe\\Dao.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Dao.cs",
               "RelativeToolTip": "SistemadeCafe\\Dao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T18:19:25.435Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form2.cs",
+              "RelativeDocumentMoniker": "SistemadeCafe\\Form2.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form2.cs",
+              "RelativeToolTip": "SistemadeCafe\\Form2.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:13:12.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form3.cs",
+              "RelativeDocumentMoniker": "SistemadeCafe\\Form3.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\projetoCSharp\\SistemadeCafe\\Form3.cs",
+              "RelativeToolTip": "SistemadeCafe\\Form3.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:14:09.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
